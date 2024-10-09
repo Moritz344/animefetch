@@ -45,8 +45,8 @@ class SystemInfo():
         value_rounded = colored(value_rounded, "yellow")
 
         self.ascii_art = f"""\
-                                        {whoami}
-                                        --------
+                                                 {whoami}
+                                                 --------
         ⢕⢕⢕⢕⢕⠅⢗⢕⠕⣠⠄⣗⢕⢕⠕⢕⢕⢕⠕⢠⣿⠐⢕⢕⢕⠑⢕⢕⠵⢕ OS        {os_info} {linux_icon}
         ⢕⢕⢕⢕⠁⢜⠕⢁⣴⣿⡇⢓⢕⢵⢐⢕⢕⠕⢁⣾⢿⣧⠑⢕⢕⠄⢑⢕⠅⢕ Kernel    {kernel}
         ⢕⢕⠵⢁⠔⢁⣤⣤⣶⣶⣶⡐⣕⢽⠐⢕⠕⣡⣾⣶⣶⣶⣤⡁⢓⢕⠄⢑⢅⢑ Shell     {shell}
