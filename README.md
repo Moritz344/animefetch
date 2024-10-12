@@ -11,3 +11,7 @@ A tool like neofetch.
         ⢕⢕⠅⣐⢕⢕⢕⢕⢕⣿⣿⡄⠛⢀⣦⠈⠛⢀⣼⣿⢗⢕⢕⢕⢕⢕⢕⡏⣘⢕
         ⢕⢕⠅⢓⣕⣕⣕⣕⣵⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣕⢕⢕⢕⢕⡵⢀⣿⣿⣘
         ⢑⢕⠃⡈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⢕
+# Install 
+To install run:
+```bash
+sudo dpkg -i animefetch.deb
